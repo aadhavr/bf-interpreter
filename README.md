@@ -2,6 +2,10 @@
 
 This repository contains a Brainfuck interpreter written in Zig. It allows you to run Brainfuck code, a programming language with eight commands.
 
+## *Update*
+
+I've been trying to run some more complicated Brainfuck programs and the interpreter is facing issues. Have gotten stuck with debugging and will revisit later. Seems to run pretty basic programs that don't involve complex loops though.
+
 ## Features
 
 - Interpret and execute Brainfuck code.
